@@ -3,3 +3,9 @@
 ### Description: Weather Forecast Application
 
 User receives the current weather in Berlin and Jakarta on e-mail.
+
+
+To run:
+```bash
+./run.sh
+```
